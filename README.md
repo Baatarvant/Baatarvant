@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Baatarvant
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello, World! 👋
 
-<!---
-Baatarvant/Baatarvant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m **@Baatarvant**, and here’s a little about me:  
+
+- 🌟 **Passionate About:** Building innovative apps, problem-solving, and teaching coding  
+- 📚 **Currently Exploring:** Machine learning and advanced JavaScript frameworks  
+- 🤝 **Open To Collaborate On:** Open-source projects, coding tutorials, and community-driven initiatives  
+- 📬 **Reach Me At:** baatarvant@gmail.com or [LinkedIn Profile](https://linkedin.com/in/baatar04)  
